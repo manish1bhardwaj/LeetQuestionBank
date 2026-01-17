@@ -1,4 +1,4 @@
-public class Solution {
+public class PrimeArrangement {
     public int numPrimeArrangements(int n) {
         if(n<=2){
             return 1;
