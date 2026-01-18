@@ -38,6 +38,4 @@ public class PrimeArrangement {
         return (int) result;
 
     }
-} {
-    
-}
+} 
